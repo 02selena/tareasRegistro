@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 class Program
@@ -10,15 +9,15 @@ class Program
         List<string> catalogo = new List<string>()
         {
             "National Geographic",
-            "Yanbal",
-            "El Universo",
-            "Ciencias Economicas",
-            "Natura",
-            "Viztazo",
+            "Universal",
+            "yambal",
+            "Esika",
+            "El Economista",
+            "Salud y Bienestar",
             "Vogue",
-            "Azzorti",
-            "Avon",
-            "Salud y Bienestar"
+            "Viztazo",
+            "Natura",
+            "ciencias Economicas"
         };
 
         int opcion = 0;
@@ -32,20 +31,20 @@ class Program
             Console.WriteLine("3. Salir");
             Console.Write("Ingrese una opción: ");
 
-            // Leer opción del usuario
             if (!int.TryParse(Console.ReadLine(), out opcion))
             {
                 Console.WriteLine("Opción inválida, intente de nuevo.");
                 continue;
             }
 
-
             switch (opcion)
             {
                 case 1:
+                    // Leer título con null-forgiving operator para evitar CS8604
                     Console.Write("Ingrese el título de la revista a buscar: ");
-                   string titulo = Console.ReadLine()!;
-                   bool encontrado = BuscarRevista(catalogo, titulo);
+                    string titulo = Console.ReadLine()!;
+
+                    bool encontrado = BuscarRevista(catalogo, titulo);
 
                     if (encontrado)
                         Console.WriteLine("Encontrado");
@@ -73,7 +72,7 @@ class Program
         } while (opcion != 3);
     }
 
-    // Método iterativo para buscar una revista
+    // Método iterativo para buscar una revista en el catálogo
     static bool BuscarRevista(List<string> catalogo, string titulo)
     {
         foreach (string revista in catalogo)
