@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\bin\Debug\net9.0\catalogo.exe
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\bin\Debug\net9.0\catalogo.deps.json
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\bin\Debug\net9.0\catalogo.runtimeconfig.json
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\bin\Debug\net9.0\catalogo.dll
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\bin\Debug\net9.0\catalogo.pdb
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\catalogo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\catalogo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\catalogo.sourcelink.json
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\catalogo.dll
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\refint\catalogo.dll
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\catalogo.pdb
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\catalogo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Catalogo de revistas\catalogo\obj\Debug\net9.0\ref\catalogo.dll
