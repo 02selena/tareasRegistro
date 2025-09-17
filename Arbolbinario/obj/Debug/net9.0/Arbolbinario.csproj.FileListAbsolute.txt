@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\Arbolbinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\Arbolbinario.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\Arbolbinario.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\Arbolbinario.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\Arbolbinario.sourcelink.json
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\bin\Debug\net9.0\Arbolbinario.exe
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\bin\Debug\net9.0\Arbolbinario.deps.json
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\bin\Debug\net9.0\Arbolbinario.runtimeconfig.json
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\bin\Debug\net9.0\Arbolbinario.dll
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\bin\Debug\net9.0\Arbolbinario.pdb
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\Arbolbinario.dll
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\refint\Arbolbinario.dll
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\Arbolbinario.pdb
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\Arbolbinario.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Arbolbinario\Arbolbinario\obj\Debug\net9.0\ref\Arbolbinario.dll
